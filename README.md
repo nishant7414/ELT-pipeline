@@ -60,7 +60,7 @@ This repository contains a robust, production-ready **ELT (Extract, Load, Transf
 ``` bash
 ## 1. Clone the Repository:
 
-git clone https://github.com/Shubham11440/ELT-pipeline.git
+git clone https://github.com/nishant7414/ELT-pipeline.git
 cd ELT-pipeline
 
 ## 2. Configure Database Connections:
